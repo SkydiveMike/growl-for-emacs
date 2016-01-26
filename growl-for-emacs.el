@@ -1,6 +1,6 @@
 ;;; growl.el --- Emacs interface to Growl via growlnotify
 
-;; Copyright (C) 2014  Mike McLean
+;; Copyright (C) 2014, 2105, 2016  Mike McLean
 
 ;; Author: Mike McLean <mike.mclean@pobox.com>
 
