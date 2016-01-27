@@ -37,6 +37,7 @@
          ((stringp arg) arg)
          (t (format "%s" arg)))))
 
+;;;###autoload
 (defun growl (title message &optional sticky identifier)
   "Shows a message through the growl notification system using
  `growlnotify-command` as the program. Set `sticky' to `t' for a
